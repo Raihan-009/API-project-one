@@ -1,0 +1,43 @@
+#textRefresh 
+{
+    font-weight: 700;
+    color: darkblue;
+}
+
+#content-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 30px;
+}
+
+#content-container img{
+    width: 319px;
+    height: 260px;
+}
+
+.text-font 
+{
+    font-family: 'Big Shoulders Display', cursive;
+    width: 319px;
+    background-color: rgb(231, 211, 24);
+}
+
+.item-title
+{
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: bolder;
+}
+.sub-title
+{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 25px;
+}
+.newPadding 
+{
+    padding: 1rem;
+}
+
+.bgColor 
+{
+    background-color: rgb(231, 211, 24);
+}
